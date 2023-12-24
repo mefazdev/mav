@@ -1,0 +1,607 @@
+
+
+
+
+@media (max-width: 1500px) {
+
+
+
+	.box {
+	
+		position: fixed;
+	
+		top: -100px;
+	
+		transform: rotate(80deg);
+	
+		left: -300px;
+	
+		z-index: 2;
+	
+	}
+	
+	
+	
+	.spinner {
+	
+	position: fixed;
+	
+	top: -20px;
+	
+	right: 40px;
+	
+	z-index: 999998;
+	
+	}
+	
+	
+	
+	.navbar-brand img{
+	
+		width: 70%;
+	
+	}
+	
+	
+	
+	.navbar{
+	
+	padding-top: 30px;
+	
+	}
+	
+	
+	
+	.whatsapp-call {
+	
+		left: 15px;
+	
+	}
+	
+	
+	
+	.main-header{
+	
+	padding-top: 40px;
+	
+	}
+	
+	
+	
+	.content-txt li{
+	
+	font-size: 18px;
+	
+	}
+	
+	.content-slide{
+		border: saddlebrown solid;
+	}
+	
+	.content-slide img{
+	/* border: saddlebrown solid; */
+	width: 80%;
+	border: solid red;
+	}
+	
+	
+	
+	.caption-info h2{
+	
+		font-size: 36px;
+	
+		margin-left: 150px;
+	
+	}
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	@media (max-width: 992px) {
+	
+	
+	
+	.box {
+	
+		position: fixed;
+	
+		top: -500px;
+	
+		transform: rotate(80deg);
+	
+		left: -700px;
+	
+		z-index: 2;
+	
+	}
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	@media (max-width : 768px) {
+	
+	
+	
+	.navbar-brand img{
+	
+		margin-left: 95px;
+	
+		max-width: 120px;
+	
+	}
+	
+	
+	
+	.float-sm-right{
+	
+		float: right !important;
+	
+	}
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	@media (max-width: 769px) {
+	
+	
+	
+	.box {
+	
+		position: fixed;
+	
+		top: -500px;
+	
+		transform: rotate(80deg);
+	
+		left: -400px;
+	
+		z-index: 2;
+	
+	}
+	
+	
+	
+	/* ---------------------------------------------------------------- Spinner -------------------- */
+	
+	.spinner {
+	
+		position: fixed;
+	
+		top: 70px;
+	
+		left: -35px;
+	
+		max-width: 100px;
+	
+	}
+	
+	
+	
+	.coccoc-alo-ph-circle {
+	
+		width: 65px;
+	
+		height: 65px;
+	
+	}
+	
+	
+	
+	.coccoc-alo-phone {
+	
+		width: 90px;
+	
+		height: 90px;
+	
+		}
+	
+	
+	
+		.coccoc-alo-ph-circle-fill {
+	
+		width: 48px;
+	
+		height: 48px;
+	
+		top: 53px;
+	
+		left: 53px;
+	
+	}
+	
+	
+	
+	.coccoc-alo-ph-img-circle {
+	
+		width: 30px;
+	
+		height: 30px;
+	
+		top: 62px;
+	
+		left: 62px;
+	
+		}
+	
+	
+	
+		/* ----------------------------------------------------------- Whatsapp -------------------- */
+	
+	
+	
+	.whatsapp-call {
+	
+		top: 190px;
+	
+		left: 25px;
+	
+	}
+	
+	
+	
+	.whatsapp-call img{
+	
+		width: 30px;
+	
+		height:30px;
+	
+	}
+	
+	
+	
+	   /* -----------------------------------------------------------Sidebar -------------------- */
+	
+	
+	
+	
+	
+	.sidebar-social{
+	
+		margin-top: 240px;
+	
+		margin-left: 30px;
+	
+	}
+	
+	   /* ----------------------------------------------------------- Navbar -------------------- */
+	
+	
+	
+	
+	
+	.float-sm-right{
+	
+		float: right !important;
+	
+	}
+	
+	
+	
+	.navbar{
+	
+		padding-top: 30px;
+	
+	}
+	
+	
+	
+	.navbar-brand img{
+	
+		width: 35%;
+	
+		margin-left: 95px;
+	
+	}
+	
+	
+	
+	   /* ----------------------------------------------------------- Header -------------------- */
+	
+	
+	
+	
+	
+	.main-overflow-content{
+	
+		padding-bottom: 90px;
+	
+		max-height: 670px;
+	
+		margin-top: 120px;
+	
+	}
+	
+	
+	
+	.main-header{
+	
+		background-size: cover;
+	
+		height: auto;
+	
+		padding-top: 5px;
+	
+	}
+	
+	
+	
+	
+	
+	.main-header h2{
+	
+		font-size: 28px;
+	
+		text-align: center;
+	
+	}
+	
+	
+	
+	
+	
+	.caption-info{
+	
+		margin-top: 30px;
+	
+		margin-bottom: 60px;
+	
+	}
+	
+	
+	
+	.caption-info h2{
+	
+		margin-left: 20px;
+	
+	}
+	
+	.content-slide{
+		background-color: wheat;
+	}
+	
+	.content-slide img{
+		border: solid red;
+		width: 100%;
+	
+	}
+	
+	.content-txt{
+	
+		position: absolute;
+	
+		top: 70px;
+	
+		left: 70px;
+	
+	}
+	
+	
+	
+	.content-txt li{
+	
+		font-size: 16px;
+	
+		font-weight: 500;
+	
+		margin-bottom: 7px;
+	
+	}
+	
+	
+	
+	  /* ----------------------------------------------------------- About us -------------------- */
+	
+	
+	
+	.about-us-inner{
+	
+	padding-top: 60px;
+	
+	padding-bottom: 60px;
+	
+	text-align: center;
+	
+	}
+	
+	
+	
+	.about-txt-content img{
+	
+		margin-bottom: 30px;
+	
+	}
+	
+	.about-txt-content h1{
+	
+		font-weight: 700;
+	
+		text-transform: uppercase;
+	
+	}
+	
+	
+	
+	
+	
+	 /* ----------------------------------------------------------- Services -------------------- */
+	
+	
+	
+	.service-inner{
+	
+		padding: 60px 0px;
+	
+	}
+	
+	
+	
+	 /* ----------------------------------------------------------- Project -------------------- */
+	
+	
+	
+	.project-inner{
+	
+		padding: 60px 0px;
+	
+	}
+	
+	
+	
+	 /* ----------------------------------------------------------- Our team-------------------- */
+	
+	
+	
+	 .our-team-inner{
+	
+		padding: 60px 0px 30px 0px;
+	
+	}
+	
+	
+	
+	
+	
+	/* ----------------------------------------------------------- Testimonial-------------------- */
+	
+	
+	
+	.testimonial{
+	
+		padding: 60px 0px 30px 0px;
+	
+	}
+	
+	
+	
+	
+	
+	/* ----------------------------------------------------------- contact us-------------------- */
+	
+	
+	
+	.contact-inner{
+	
+		padding: 60px 0px;
+	
+	}
+	
+	
+	
+	
+	
+	.c-img{
+	
+		opacity: 0;
+	
+	}
+	
+	
+	
+	.contact-txt{
+	
+		position: absolute;
+	
+		top: 40px;
+	
+		left: 30px;
+	
+	}
+	
+	
+	
+	.contact-txt li{
+	
+		font-size: 14px;
+	
+	}
+	
+	
+	
+	
+	
+	.contact-content {
+	
+		 text-align: center;
+	
+	}
+	
+	
+	
+	/* ----------------------------------------------------------- OFooter-------------------- */
+	
+	
+	
+	.footer-inner{
+	
+		padding-top: 60px;
+	
+		color: #fff;
+	
+		padding-bottom: 30px;
+	
+		text-align: center;
+	
+	}
+	
+	
+	
+	.mg-service{
+	
+		text-align: center;
+	
+	}
+	
+	
+	
+	.f-header h2{
+	
+		margin-bottom: 0px !important;
+	
+	}
+	
+	
+	
+	.mg-address{
+	
+		margin-bottom: 60px;
+	
+	}
+	
+	
+	
+	.copyright-footer p{
+	
+		margin-bottom: 0px;
+	
+	}
+	
+	
+	
+	
+	
+	}
+	
+	
+	
+	

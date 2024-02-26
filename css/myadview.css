@@ -41,7 +41,7 @@ line-height: 1.5;
 .active a{
 
 /* color: #97c355 !important; */
-color: #23a5d4 !important;
+color: #21409a !important;
  
 }
 
@@ -55,19 +55,84 @@ cursor: pointer;
 
 /* ---------------------- navbar ------------------------------------------ */
 
+
+
 .fas{
+
+  font-size: 14px;
+  
+  }
+  
+  .bg-dark{
+  
+  background-color: #2f3030 !important;
+  
+  }
+  
+  .fas-nav{
+  
+  margin-right: 7px;
+  
+  width: auto;
+  
+  height: auto;
+  
+  border: 1px solid #21409a;
+  
+  padding: 5px;
+  
+  border-radius: 50%;
+  
+  }
+  
+  .nav-item{
+  
+  margin-right: 20px;
+  
+  }
+  
+  .nav-link{
+  
+  transition: all 0.3s ease;
+  
+  }
+  
+   
+  
+  .navbar{
+  
+  padding-top: 100px;
+  
+  z-index: 1;
+  
+  }
+  
+  .navbar-toggle {
+  
+  border: none;
+  
+  outline: none;
+  
+  }
+  
+  button:focus{
+  
+  outline: none;
+  
+  }
+/* .fas{
 
 font-size: 14px;
 
-}
+} */
 
-.bg-dark{
+/* .bg-dark{
 
 background-color: #2f3030 !important;
 
-}
+} */
 
-.fas-nav{
+/* .fas-nav{
 
 margin-right: 7px;
 
@@ -81,43 +146,43 @@ padding: 5px;
 
 border-radius: 50%;
 
-}
+} */
 
-.nav-item{
+/* .nav-item{
 
 margin-right: 20px;
 
-}
+} */
 
-.nav-link{
+/* .nav-link{
 
 transition: all 0.3s ease;
 
-}
+} */
 
  
 
-.navbar{
+/* .navbar{
 
 padding-top: 50px;
 
 z-index: 1;
 
-}
+} */
 
-.navbar-toggle {
+/* .navbar-toggle {
 
 border: none;
 
 outline: none;
 
-}
+} */
 
-button:focus{
+/* button:focus{
 
 outline: none;
 
-}
+} */
 
 /* ---------------------- sidebar-content ---------------------------------*/
 
@@ -248,18 +313,18 @@ margin-top: 140px;
 }
 
 .fulfil{
-
-color: #1599f7;
-
+ 
+/* color: #1599f7; */
+ color: #21409a;
 margin-left: 100px;
  
 
 }
 
 .needs{
-
-  color: #1599f7;
-
+/* color: #1599f7; */
+  /* color: #1599f7; */
+  color: #21409a;
 margin-left: 100px;
 
 }
@@ -301,7 +366,7 @@ margin-bottom: 7px;
 .content-txt li:hover{
 
 /* background-color: rgba(149,226,33,0.6); */
-background-color:  #1599f7;
+background-color:  #21409a;
 
 padding: 5px 22px;
 
@@ -545,7 +610,7 @@ border: 1px solid #505151;
 
 .c-service-list:hover{
 
-background-color: #1a6b8e;
+background-color: #21409a;
 
 -webkit-transform: scale(1.1);
 
@@ -953,7 +1018,7 @@ margin-bottom: 7px;
 
 color: #fff;
 
-background-color: #1a6b8e ;
+background-color: #21409a ;
 
 width: 30px;
 
@@ -977,7 +1042,7 @@ border-radius: 50%;
 
 padding: 15px 20px;
 
-background-color: #1a6b8e;
+background-color: #21409a;
 
 border-radius: 10px;
 
@@ -1005,7 +1070,7 @@ padding: 3px;
 
 background-color: #e0f3c4;
 
-color: #1a6b8e;
+color: #21409a;
 
 border-radius: 5px;
 
@@ -1145,7 +1210,7 @@ border-radius: 50%;
 
 border: none;
 
-border-bottom: 2px solid #1a6b8e;
+border-bottom: 2px solid #21409a;
 
 border-radius: 0;
 
@@ -1187,7 +1252,7 @@ margin-top: 20px;
 
 transition: all .2s ease-in-out;
 
-background: #1a6b8e;
+background: #21409a;
 
 border: none;
 
@@ -1242,7 +1307,7 @@ top: 3%;
 left: 10%;
 
 /* background: #97c355; */
-background: #1a6b8e;
+background: #21409a;
 
 width: 1500px;
 
@@ -1267,7 +1332,7 @@ animation: drift 7500ms infinite linear;
 position: fixed;
 
 /* background-color: rgba(149,226,33,1); */
-background-color:  #1a6b8e;
+background-color:  #21409a;
 
 }
 

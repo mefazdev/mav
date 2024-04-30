@@ -14,6 +14,7 @@ background: transparent; /* make scrollbar transparent */
 
 body{
 
+
 font-family: 'Montserrat', sans-serif;
 
 margin: 0px;
@@ -41,7 +42,7 @@ line-height: 1.5;
 .active a{
 
 /* color: #97c355 !important; */
-color: #21409a !important;
+color: #357f9f !important;
  
 }
 
@@ -65,7 +66,8 @@ cursor: pointer;
   
   .bg-dark{
   
-  background-color: #2f3030 !important;
+
+    background-color: #2f3030 !important;
   
   }
   
@@ -77,12 +79,12 @@ cursor: pointer;
   
   height: auto;
   
-  border: 1px solid #21409a;
+  border: 2px solid #d1cece;
   
   padding: 5px;
   
-  border-radius: 50%;
-  
+  border-radius: 100%;
+  /* background-color: red; */
   }
   
   .nav-item{
@@ -101,7 +103,7 @@ cursor: pointer;
   
   .navbar{
   
-  padding-top: 100px;
+  padding-top: 10px;
   
   z-index: 1;
   
@@ -214,7 +216,7 @@ z-index: 2;
 
 margin-top: 340px;
 
-margin-left: 120px;
+margin-left: 140px;
 
 color: #fff;
 
@@ -314,8 +316,9 @@ margin-top: 140px;
 
 .fulfil{
  
-/* color: #1599f7; */
- color: #21409a;
+color: #207aa0;
+/* rgba(140, 140, 140, 0.5) */
+ /* color: #1c85b1; */
 margin-left: 100px;
  
 
@@ -324,7 +327,7 @@ margin-left: 100px;
 .needs{
 /* color: #1599f7; */
   /* color: #1599f7; */
-  color: #21409a;
+  color:#1a6b8e;
 margin-left: 100px;
 
 }
@@ -366,7 +369,7 @@ margin-bottom: 7px;
 .content-txt li:hover{
 
 /* background-color: rgba(149,226,33,0.6); */
-background-color:  #21409a;
+background-color:   #1a6b8e;
 
 padding: 5px 22px;
 
@@ -385,7 +388,7 @@ font-weight: 300;
 padding-top: 120px;
 
 padding-bottom: 90px;
-
+background-color: #2f3030;
 }
 
 .about-txt-content img{
@@ -610,7 +613,7 @@ border: 1px solid #505151;
 
 .c-service-list:hover{
 
-background-color: #21409a;
+background-color: #1a6b8e;
 
 -webkit-transform: scale(1.1);
 
@@ -725,7 +728,7 @@ margin-bottom: 60px;
 .client-list-inner{
 
 padding: 60px 0px;
-
+background-color: #2f3030;
 }
 
 .client-carousel-item{
@@ -809,7 +812,7 @@ z-index: 99999;
 /* ----------------------- Project -------------------------------------*/
 
 .project-inner{
-
+  background-color: #2f3030;
 padding: 120px 0px;
 
 }
@@ -924,21 +927,17 @@ color: #909090;
 
 .team-social .fa-facebook-f:hover {
 
-color: #3b5998;
+color: #1c85b1;
 
 }
 
-.team-social .fa-instagram:hover {
+.team-social i:hover {
 
-color: #3f729b;
-
-}
-
-.team-social .fa-linkedin-in {
-
-color: #8a3ab9;
+/* color: #1c85b1; */
 
 }
+
+ 
 
 /* ---------------------- Contact ------------------------------------------ */
 
@@ -1018,7 +1017,7 @@ margin-bottom: 7px;
 
 color: #fff;
 
-background-color: #21409a ;
+background-color: #1a6b8e;
 
 width: 30px;
 
@@ -1042,7 +1041,7 @@ border-radius: 50%;
 
 padding: 15px 20px;
 
-background-color: #21409a;
+background-color: #1a6b8e;
 
 border-radius: 10px;
 
@@ -1070,7 +1069,7 @@ padding: 3px;
 
 background-color: #e0f3c4;
 
-color: #21409a;
+color: #1a6b8e;
 
 border-radius: 5px;
 
@@ -1096,9 +1095,10 @@ text-align: center;
 
 footer{
 
-background:url(../img/footer.png) no-repeat;
+/* background:url(../img/footer.png) no-repeat; */
 
 background-size: cover;
+background-color: black;
 
 }
 
@@ -1210,7 +1210,7 @@ border-radius: 50%;
 
 border: none;
 
-border-bottom: 2px solid #21409a;
+border-bottom: 2px solid #1a6b8e;
 
 border-radius: 0;
 
@@ -1252,7 +1252,7 @@ margin-top: 20px;
 
 transition: all .2s ease-in-out;
 
-background: #21409a;
+background: #1a6b8e;
 
 border: none;
 
@@ -1307,7 +1307,7 @@ top: 3%;
 left: 10%;
 
 /* background: #97c355; */
-background: #21409a;
+background: #1a6b8e;
 
 width: 1500px;
 
@@ -1332,7 +1332,7 @@ animation: drift 7500ms infinite linear;
 position: fixed;
 
 /* background-color: rgba(149,226,33,1); */
-background-color:  #21409a;
+background-color:  #1c85b1;
 
 }
 
@@ -1532,7 +1532,7 @@ transform: scale(0,0) rotateZ(90deg);opacity:0
 
 position: fixed;
 
-top: 60px;
+top: -20px;
 
 right: 150px;
 
@@ -2273,7 +2273,7 @@ position:fixed;
 
 z-index: 999999;
 
-top: 300px;
+top: 500px;
 
 right:-500px;
 
@@ -2416,6 +2416,7 @@ margin-left: 10px;
 margin-top: 7px;
 
 }
+
 
 #chat-top-right{
 

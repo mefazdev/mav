@@ -1,6 +1,6 @@
 @media (min-width: 1500px) {
   .navbar-brand img {
-    width: 250px;
+    width: 150px;
     
   }
    
@@ -221,12 +221,10 @@
     margin-left: 20px;
   }
 
-  .content-slide {
-    background-color: wheat;
-  }
+   
 
   .content-slide img {
-    border: solid red;
+   
     width: 100%;
   }
 

@@ -73,18 +73,27 @@ cursor: pointer;
   
   .fas-nav{
   
-  margin-right: 7px;
+  /* margin-right: 7px; */
   
-  width: auto;
+ 
   
-  height: auto;
   
-  border: 2px solid #d1cece;
   
-  padding: 5px;
-  
-  border-radius: 100%;
-  /* background-color: red; */
+  /* padding: 5px; */
+ 
+  /* border-radius: 100%; */
+
+  }
+  .fas-nav__round{
+    margin-right: 7px;
+    border-radius: 100%;
+    width: 33px;
+    border: 2px solid #d1cece;
+    height:33px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: red; */
   }
   
   .nav-item{
@@ -268,8 +277,8 @@ position: relative;
 
 padding-top: 200px;
 
-background-color: #2f3030;
-
+/* background-color: #2f3030; */
+background-color: black;
 }
 
 .main-header:before{
@@ -278,8 +287,8 @@ content: "";
 
 position: absolute;
 
-background-color:#2f3030;
-
+/* background-color:#2f3030; */
+background-color: black;
 top: 0;
 
 left: 0;
